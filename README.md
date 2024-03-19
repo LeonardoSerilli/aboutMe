@@ -1,4 +1,4 @@
-# About Me Git Page
+# About Me
 
 This repository contains various documents related to my academic and professional profile.
 
