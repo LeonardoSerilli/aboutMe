@@ -25,6 +25,11 @@ I have several other repositories on GitHub containing additional CTF-related re
 
 Additionally, I maintain a Notion page with my CTF related notes. You can find it [here](https://assorted-estimate-5f8.notion.site/Bytes-of-Knowledge-921cc5b930fd4c2a8cc820a325336ca6?pvs=25).
 
+## Other Stuff
+My Github contains also some other random project/studies such as:
+- [](https://github.com/LeonardoSer/CanvasGameDevJourney) - some javascript's animations notes
+- [](https://github.com/LeonardoSer/SpeechAIExperiments) - a small telegram voice-based experimental chatboth to interact with chatGpt
+
 ## Usage
 
 Feel free to explore the contents of this repository to learn more about my academic and professional background.
