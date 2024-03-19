@@ -10,7 +10,7 @@ This repository contains various documents related to my academic and profession
 - **CTF Certificates**: Certificates obtained from participating in Capture The Flag competitions.
 
 ## University
-I have two repositories on GitHub containing notes, projects and material related to my Master studies, You can explore them here:
+I have some repositories on GitHub containing notes, projects and material related to my Master studies, You can explore them here:
 - [Magistrale_NEDAS](https://github.com/LeonardoSer/Magistrale_NEDAS)
 - [MasterII_UBINET](https://github.com/LeonardoSer/MasterII_UBINET)
 - [INRIA_Internship](https://github.com/LeonardoSer/INRIA_Internship)
