@@ -27,8 +27,8 @@ Additionally, I maintain a Notion page with my CTF related notes. You can find i
 
 ## Other Stuff
 My Github contains also some other random project/studies such as:
-- [](https://github.com/LeonardoSer/CanvasGameDevJourney) - some javascript's animations notes
-- [](https://github.com/LeonardoSer/SpeechAIExperiments) - a small telegram voice-based experimental chatboth to interact with chatGpt
+- [CanvasGameDevJourney](https://github.com/LeonardoSer/CanvasGameDevJourney) - some javascript's animations notes
+- [SpeechAIExperiments](https://github.com/LeonardoSer/SpeechAIExperiments) - a small telegram voice-based experimental chatboth to interact with chatGpt
 
 ## Usage
 
