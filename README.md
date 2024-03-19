@@ -23,7 +23,7 @@ I have several other repositories on GitHub containing additional CTF-related re
 - [CryptopalsLogs](https://github.com/LeonardoSer/CryptopalsLogs)
 - [BlackHatPython_Scripts_py3](https://github.com/LeonardoSer/BlackHatPython_Scripts_py3)
 
-Additionally, I maintain a Notion page with my CTF notes. You can find it [here](https://assorted-estimate-5f8.notion.site/Bytes-of-Knowledge-921cc5b930fd4c2a8cc820a325336ca6?pvs=25).
+Additionally, I maintain a Notion page with my CTF related notes. You can find it [here](https://assorted-estimate-5f8.notion.site/Bytes-of-Knowledge-921cc5b930fd4c2a8cc820a325336ca6?pvs=25).
 
 ## Usage
 
