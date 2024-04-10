@@ -6,13 +6,12 @@ This repository contains various documents related to my academic and profession
 
 Hello! I'm a passionate Computer Science graduate, with both Bachelor's and Master's degrees in Computer Science from L'Aquila University, Italy, and Côte d'Azur University in France, respectively. I graduated with the highest honors (110 e lode) in my Master's program, focusing on Ubiquitous Networking. My journey through academia and professional engagements has always been driven by an insatiable curiosity and a firm belief in continuous learning and applying what I learn in practical settings.
 
-Throughout my studies, I delved into fascinating areas such as Quantum Computing —culminating in a thesis on Quantum Computing Algorithms— and contributed to significant projects like the evolution of social graphs over time with the INRIA’s COATI team. My work has spanned developing RESTful services, engaging with web development frameworks, diving in cybersecurity topics, alongside the study of linear programming and exploring various programming languages.
-
-Currently, I'm a Developer at Amadeus for Inetum, focusing on the internal test infrastructure. This role continues to challenge and expand my expertise, particularly in the areas relevant to our cutting-edge projects.
-
-In my spare time, I enjoy challenging myself with Capture The Flag competitions, indicative of my passion for cybersecurity. 
+Throughout my studies, I delved into fascinating areas such as Quantum Computing —culminating in a thesis on Quantum Computing Algorithms— and contributed to significant projects like the evolution of social graphs over time with the INRIA’s COATI team and as a developer at Amadeus for Inetum, focusing on the internal test infrastructure. My work has spanned developing RESTful services, coukld technologies, engaging with web development frameworks, diving in cybersecurity topics, alongside the study of linear programming and exploring various programming languages. In my spare time, I enjoy also challenging myself with Capture The Flag competitions, indicative of my passion for cybersecurity. 
 
 My journey is documented through various projects and milestones here on my GitHub, which serves as a digital testament to my growth and learning in the ever-evolving tech landscape.
+
+But who am I beyond the code? I'm a bass guitar player, blending melodies and rhythms much like I blend algorithms and technologies. My experiences as a rugby player taught me the importance of teamwork and resilience, traits that I bring to every project I undertake. I'm also an avid traveler and hiker, finding inspiration in the landscapes I explore and the cultures I encounter. These adventures fuel my creativity, which I express through drawing (occasionally) and immersing myself in video games, seeing them not just as entertainment but as worlds of endless possibilities and learning.
+
 
 ## Contents
 
