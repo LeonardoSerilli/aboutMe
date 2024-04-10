@@ -8,7 +8,7 @@ Hello! I'm a passionate Computer Science graduate, with both Bachelor's and Mast
 
 Throughout my studies, I delved into fascinating areas such as Quantum Computing —culminating in a thesis on Quantum Computing Algorithms— and contributed to significant projects like the evolution of social graphs over time with the INRIA’s COATI team and, as developer at Amadeus for Inetum, I contributed to the internal test infrastructure of the company, a challenging experience which expanded my expertise. In my spare time, I enjoy challenging myself with Capture The Flag competitions, indicative of my passion for cybersecurity. 
 
-My work has spanned developing RESTful services, engaging with web development frameworks, cloud technologies, diving in cybersecurity topics, alongside the study of linear programming and exploring various programming languages and much more. 
+My work has spanned Networking, RESTful services, web development frameworks, cloud technologies, cybersecurity topics, studies of linear programming, exploration of various programming languages and much more. 
 
 My journey is documented through various projects and milestones here on my GitHub, which serves as a digital testament to my growth and learning in the ever-evolving tech landscape.
 
