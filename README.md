@@ -1,6 +1,18 @@
-# About Me
+# About this repository
 
 This repository contains various documents related to my academic and professional profile.
+
+# About Me
+
+Hello! I'm a passionate Computer Science graduate, with both Bachelor's and Master's degrees in Computer Science from L'Aquila University, Italy, and Côte d'Azur University in France, respectively. I graduated with the highest honors (110 e lode) in my Master's program, focusing on Ubiquitous Networking. My journey through academia and professional engagements has always been driven by an insatiable curiosity and a firm belief in continuous learning and applying what I learn in practical settings.
+
+Throughout my studies, I delved into fascinating areas such as Quantum Computing —culminating in a thesis on Quantum Computing Algorithms— and contributed to significant projects like the evolution of social graphs over time with the INRIA’s COATI team. My work has spanned developing RESTful services, engaging with web development frameworks, diving in cybersecurity topics, alongside the study of linear programming and exploring various programming languages.
+
+Currently, I'm a Developer at Amadeus for Inetum, focusing on the internal test infrastructure. This role continues to challenge and expand my expertise, particularly in the areas relevant to our cutting-edge projects.
+
+In my spare time, I enjoy challenging myself with Capture The Flag competitions, indicative of my passion for cybersecurity. 
+
+My journey is documented through various projects and milestones here on my GitHub, which serves as a digital testament to my growth and learning in the ever-evolving tech landscape.
 
 ## Contents
 
